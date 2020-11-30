@@ -1,4 +1,4 @@
-#eBay price scraper
+# eBay price scraper
 
 lets create a python program that returns the last few sold item prices on ebay for a given search term. For now we will keep it terminal based but next video lets turn it into a flask app.
 
